@@ -17,6 +17,6 @@ I want to show a list of bookmarks
 > Verbs: show list of bookmarks
 
 User Story 1:
-![Domain Model of User Story 1][logo]
+![Domain Model of User Story 1][us_1]
 
-[logo]: ./resources/images/user_story_1.jpg "User Story 1"
+[us_1]: ./resources/images/user_story_1.jpg "User Story 1"
